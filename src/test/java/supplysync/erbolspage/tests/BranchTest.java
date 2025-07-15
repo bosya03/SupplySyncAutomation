@@ -1,4 +1,4 @@
-package supplysync.tests;
+package supplysync.erbolspage.tests;
 
 import io.cucumber.java.en.*;
 import io.restassured.RestAssured;
@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 import org.junit.Assert;
-import supplysync.utils.ConfigReader;
+import supplysync.erbolspage.utils.ConfigReader;
 
 import java.util.Map;
 

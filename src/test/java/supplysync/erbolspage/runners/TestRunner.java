@@ -1,4 +1,4 @@
-package supplysync.runners;
+package supplysync.erbolspage.runners;
 
 
 import io.cucumber.junit.Cucumber;
